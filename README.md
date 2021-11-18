@@ -19,6 +19,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="c" width="40" height="40" style="max-width:100%;"></img>   
   </div>
   
+  <h2 align="center">Projetos desenvolvidos</h2>
+  <div><b>▶ Pedidos Eletrónicos para Café/Bar</b></div>  
+  <div><b>▶ -</b></div>
+  <div><b>▶ -</b></div>
+  
   <h2 align="center">Contactos e páginas</h2>
   
   <div align="center">   
