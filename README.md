@@ -5,8 +5,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=Varrys">
 <div align="center">
   <a href="https://github.com/varrys">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=varrys&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varrys&layout=compact&langs_count=7&theme=github_dark"/>    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=varrys&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
 </div>
   
   <div align="center"><br>
