@@ -22,7 +22,7 @@
   
   <h2 align="center">Projetos desenvolvidos</h2>
   <div><b>▶ Pedidos Eletrónicos para Café/Bar</b></div>  
-  <div><b>▶ -</b></div>![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+  <div><b>▶ -</b></div>
   <div><b>▶ -</b></div>
   
   <h2 align="center">Contactos e páginas</h2>
@@ -35,3 +35,6 @@
  
 </div>
 <div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Varrys"></div>
+`` css
+   código para colorir
+`` ``
